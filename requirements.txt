@@ -1,5 +1,6 @@
 jupyterlab
 nbclient
 pandas
-pyodbc
+numpy
 pandasql
+databricks
