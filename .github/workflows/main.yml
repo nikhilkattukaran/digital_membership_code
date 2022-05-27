@@ -33,6 +33,6 @@ jobs:
 
       - id: jupyter
         name: Jupyter Notebook Execution
-        run: jupyter execute DMCode.ipynb
+        run: jupyter execute MembershipCode.ipynb
         shell: bash
-        
+         
