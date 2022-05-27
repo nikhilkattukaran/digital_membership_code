@@ -4,4 +4,5 @@ pandas
 numpy
 pandasql
 databricks
-sql
+databricks[sql]
+databricks-sql-connector
