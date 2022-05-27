@@ -6,3 +6,4 @@ pandasql
 databricks
 databricks[sql]
 databricks-sql-connector
+xlsxwriter
